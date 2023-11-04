@@ -1,2 +1,2 @@
 # IBMDataCollection
-Note book for IBM Data science course's Cap stone project
+Note book for IBM Data science course's capstone project
